@@ -10,3 +10,6 @@
 > Download [Xash3D PC](https://github.com/qberkdc/Xash3D-0.20.1/releases/download/xashch-v1.1/Xash3D.zip) (Not Recommended)
 > 
 > Download [Xash3D ANDROID](https://github.com/qberkdc/Xash3D-0.20.1/releases/download/xashch-v1.0/Xash3D.zip)
+
+> [!IMPORTANT]
+> These files are unofficial. If you are using the PC version, download the current version from the original [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs/releases/tag/continuous) releases.
